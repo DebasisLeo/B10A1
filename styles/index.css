@@ -115,3 +115,10 @@ font-weight: 600;
     display: flex;
     justify-content: space-between;
 }
+.f3{
+    width: 1140px;
+    height: 780px;
+    margin: 70px 120px 40px 150px;
+    border: 2px solid orange;
+    
+}
