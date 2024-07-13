@@ -331,6 +331,7 @@ iframe{
 }
 .d2{
     margin: 5px;
+    height: auto;
 }
 .f1{
     width: 100%;
@@ -338,6 +339,12 @@ iframe{
 }
 .d1{
     height: auto;
+    margin-bottom: 15px;
+}
+.id1,.id2,.id3{
+    margin-top: 50px;
+   height: auto;
+   flex-direction: column;
 }
 
 }
